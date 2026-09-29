@@ -1,0 +1,6 @@
+Report View-The main workspace where you create and arrange visualizations such as charts, tables, cards, and slicers to build interactive reports and dashboards.
+Data View-Displays the actual data stored in your tables. It allows you to inspect rows and columns and perform basic data-related operations.
+Model View-Shows the relationships between tables in your data model. You can create, edit, and manage relationships between tables here.
+Fields Pane-Located on the right side, it lists all available tables, columns, and measures. You use it to select fields and add them to visualizations.
+Visualizations Pane-Provides options for selecting and configuring visual types such as bar charts, line charts, pie charts, cards, and tables. It also lets you format the selected visual.
+Filters Pane-Allows you to apply filters to individual visuals, an entire report page, or the whole report to control which data is displayed.
